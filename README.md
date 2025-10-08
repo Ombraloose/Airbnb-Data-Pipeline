@@ -1,6 +1,6 @@
 # Airbnb-Data-Pipeline
 
-Titlw: Airbnb Data Pipeline 
+Title: Airbnb Data Pipeline 
 
 Objective: Build an end-to-end data pipeline for Airbnb data (listings, calendar, reviews).
 
